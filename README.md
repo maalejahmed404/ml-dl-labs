@@ -11,33 +11,34 @@ Each TP is self-contained with a notebook and a minimal `requirements.txt`. See 
 
 ---
 
+
 ## Structure
 
-TPs/ \\
-├─ CNN/ \\
-│  ├─ CNN.ipynb \\
-│  ├─ README.md
-│  └─ requirements.txt
-├─ GNN/
-│  ├─ GNN.ipynb
-│  ├─ README.md
-│  └─ requirements.txt
-├─ MLP-CLASS/
-│  ├─ MLP-CLASS.ipynb
-│  ├─ README.md
-│  └─ requirements.txt
-├─ MLP-REGRESSION/
-│  ├─ MLP-REGRESSION.ipynb
-│  ├─ README.md
-│  └─ requirements.txt
-├─ NLP/
-│  ├─ NLP.ipynb
-│  ├─ README.md
-│  └─ requirements.txt
-└─ RNN/
-   ├─ RNN-classification.ipynb
-   ├─ RNN-generation.ipynb
-   └─ README.md
+    TPs/
+    ├─ CNN/
+    │  ├─ CNN.ipynb
+    │  ├─ README.md
+    │  └─ requirements.txt
+    ├─ GNN/
+    │  ├─ GNN.ipynb
+    │  ├─ README.md
+    │  └─ requirements.txt
+    ├─ MLP-CLASS/
+    │  ├─ MLP-CLASS.ipynb
+    │  ├─ README.md
+    │  └─ requirements.txt
+    ├─ MLP-REGRESSION/
+    │  ├─ MLP-REGRESSION.ipynb
+    │  ├─ README.md
+    │  └─ requirements.txt
+    ├─ NLP/
+    │  ├─ NLP.ipynb
+    │  ├─ README.md
+    │  └─ requirements.txt
+    └─ RNN/
+       ├─ RNN-classification.ipynb
+       ├─ RNN-generation.ipynb
+       └─ README.md
 
 ---
 
