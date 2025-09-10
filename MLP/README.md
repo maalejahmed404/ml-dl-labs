@@ -5,7 +5,7 @@ It includes two variants of the same idea:
 - **Classification** (e.g., MNIST digits)
 - **Regression** (toy/tabular-style targets)
 
-> Use the notebook in this folder (`*.ipynb`) and run cells in order.
+
 
 ---
 
