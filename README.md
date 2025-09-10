@@ -13,9 +13,9 @@ Each TP is self-contained with a notebook and a minimal `requirements.txt`. See 
 
 ## Structure
 
-TPs/
-├─ CNN/
-│  ├─ CNN.ipynb
+TPs/ \\
+├─ CNN/ \\
+│  ├─ CNN.ipynb \\
 │  ├─ README.md
 │  └─ requirements.txt
 ├─ GNN/
